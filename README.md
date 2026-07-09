@@ -34,6 +34,8 @@ Nguồn dữ liệu được trích xuất từ Kaggle: [Student Depression and 
 Tìm hiểu số lượng người có mức độ stress thấp, trung bình, cao ở hai nhóm giới tính `Male` (Nam) và `Female` (Nữ).
 
 #### Kết quả thu được:
+![Biểu đồ ngành học](BieuDo/1.jpg)
+
 | Giới tính | Mức độ Thấp | Mức độ Trung bình | Mức độ Cao |
 | :--- | :---: | :---: | :---: |
 | **Nam (Male)** | 29,888 | 19,222 | 1,010 |
