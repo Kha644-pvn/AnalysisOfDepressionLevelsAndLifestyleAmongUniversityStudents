@@ -48,7 +48,7 @@ Tìm hiểu số lượng người có mức độ stress thấp, trung bình, c
 Khám phá dữ liệu để tìm hiểu mức độ stress của sinh viên thuộc từng ngành học cụ thể sẽ như thế nào.
 
 #### Kết quả thu được:
-*(Bạn có thể chèn hình ảnh biểu đồ ngành học ở đây)*
+![Biểu đồ ngành học](BieuDo/2.jpg)
 
 > **📌 Nhận xét:** 
 > Nhìn chung về tổng thể, số người chịu ảnh hưởng bởi mỗi nhóm mức độ stress trong từng ngành học là như nhau. Tỉ lệ này cho thấy mức độ stress của sinh viên phân bố tương đối đồng đều giữa các ngành:
